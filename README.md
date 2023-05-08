@@ -1,2 +1,2 @@
 # java_data_structures
-Practicing data structures in Java
+Doing some tests and exercises in Java
